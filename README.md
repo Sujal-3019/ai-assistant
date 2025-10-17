@@ -153,7 +153,7 @@ Contributions are welcome! Submit pull requests for bug fixes, new features, or 
 If you enjoy this project, please leave a ⭐ on GitHub and share with others!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sujal-3019&label=Visitors&color=purple&style=flat" alt="Profile visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Sujal-3019&label=Visitors&color=blue&style=flat" alt="Profile visitors" />
 </p>
 
 
